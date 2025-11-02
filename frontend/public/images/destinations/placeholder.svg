@@ -1,0 +1,10 @@
+<!-- Simple SVG placeholder for destination images -->
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#f3f4f6"/>
+  <text x="200" y="140" text-anchor="middle" fill="#6b7280" font-family="Arial, sans-serif" font-size="16">
+    Destination Image
+  </text>
+  <text x="200" y="165" text-anchor="middle" fill="#9ca3af" font-family="Arial, sans-serif" font-size="12">
+    Add your photo here
+  </text>
+</svg>

@@ -1,0 +1,3 @@
+# Hotel Placeholder
+
+This is a placeholder for hotel images. Replace this with actual hotel images following the naming convention in the README.md file.

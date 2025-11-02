@@ -1,0 +1,7 @@
+# Placeholder Image
+
+This is a temporary placeholder for destination images.
+
+You can replace the placeholder.jpg in each folder with actual destination images following the naming convention in the README.md file.
+
+The placeholder will be displayed until you add the actual images.
